@@ -130,8 +130,8 @@ const Primavera = [
   {
     id: 13,
     img: primavera13,
-    name: "Praça Matriz",
-    description: "A Praça Matriz é um dos encantos de Primavera, especialmente durante datas comemorativas como Natal e Ano Novo, quando suas decorações transformam o local em um cenário mágico. É um espaço ideal para momentos de celebração.",
+    name: "Praçinha da Paca",
+    description: "A Praça da Paca é um dos encantos de Primavera, especialmente durante datas comemorativas como Natal e Ano Novo, quando suas decorações transformam o local em um cenário mágico. É um espaço ideal para momentos de celebração.",
     slug: "pracaMatriz",
     lat: -0.935733, // Exemplo de latitude  
     lng: -47.111488, // Exemplo de longitude
